@@ -24714,4 +24714,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Siedemnastek)</Description>
     </AutoSplitter>
+ <AutoSplitter>
+        <Games>
+            <Game>Colin McRae Rally 2.0 Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marysiamzawka/ASL/master/LiveSplit.CMR2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting, Total Race Time (as Game Time), Auto Start and Reset for Championship% (by Mr. Mary)</Description>
+        <Website>https://github.com/marysiamzawka/ASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
